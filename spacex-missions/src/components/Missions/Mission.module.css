@@ -1,0 +1,55 @@
+.mission {
+  margin: 0 auto;
+  max-width: 50rem;
+  display: flex;
+  gap: 1.5rem;
+}
+.mission--img--box {
+  max-width: 30rem;
+  max-height: 40rem;
+  overflow: hidden;
+}
+.mission--img {
+  width: 100%;
+  object-fit: cover;
+}
+.mission--content {
+  max-width: 30rem;
+}
+.mission--title {
+  font-size: 2.5rem;
+  color: #fff;
+  font-weight: 700;
+}
+
+.mission-info {
+  padding-top: 3rem;
+  width: 80%;
+  margin-top: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.mission-info dt {
+  margin-bottom: 0.2rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+.mission-info dd {
+  color: #cccccc;
+  font-size: 1.2rem;
+}
+.rocket--link {
+  font-size: 1.4rem;
+  text-shadow: none;
+  letter-spacing: 0.8px;
+  color: #6666ff;
+  display: inline-block;
+  margin-top: 1rem;
+  transition: all 200ms;
+}
+
+.rocket--link:hover,
+.rocket--link:active {
+  color: #1a1aff;
+}

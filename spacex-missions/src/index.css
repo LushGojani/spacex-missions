@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --heights: 90.4vh;
+  --widths: 100%;
+}
+html {
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  color: #fff;
+  font-size: 1.6rem;
+  background-color: #000;
+  padding-bottom: 5rem;
+}

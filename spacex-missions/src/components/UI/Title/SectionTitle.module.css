@@ -1,0 +1,15 @@
+.tittle--container {
+  text-transform: capitalize;
+  width: 30%;
+  margin: 5rem 0;
+}
+.line {
+  border-bottom: 1px solid #cccccc;
+  display: block;
+}
+.section--tittle {
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #cccccc;
+  font-size: 4rem;
+  font-weight: 400;
+}
